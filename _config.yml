@@ -1,6 +1,7 @@
 baseUrl: /cbolyard.github.io
 title: Thinking about Data
 plugins:
+  - jekyll-avatar
   - jekyll-optional-front-matter
   - jekyll-titles-from-headings
 titles_from_headings:
