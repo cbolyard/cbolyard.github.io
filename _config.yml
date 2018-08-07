@@ -1,3 +1,4 @@
 baseUrl: /cbolyard.github.io
 title: Thinking about Data
-theme: jekyll-theme-slate
+plugins:
+  - jekyll-default-layout
