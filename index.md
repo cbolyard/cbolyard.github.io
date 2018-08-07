@@ -1,4 +1,4 @@
-## Chris Bolyard
+{% avatar [USERNAME] %} ## Chris Bolyard
 
 ### Posts
 
