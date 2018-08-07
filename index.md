@@ -1,5 +1,3 @@
-## Chris Bolyard
-
 ### Posts
 
 #### 2018
