@@ -1,7 +1,5 @@
 ## Chris Bolyard
 
-{% avatar [cbolyard] %}
-
 ### Posts
 
 #### 2018
