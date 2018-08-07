@@ -3,7 +3,7 @@
 ## Posts
 
 ### 2018
-  [test](testPost.md)
+  [test](2018/testPost.md)
 ## Interests
 
 - SQL Server
