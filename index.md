@@ -2,7 +2,7 @@
 
 ### Posts
 
-  #### 2018
+#### 2018
   - [SQL Server Machine Learning Services with Python](2018/mssqlPythonOverview.md)
 
 ### Interests
