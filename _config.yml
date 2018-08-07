@@ -2,3 +2,4 @@ baseUrl: /cbolyard.github.io
 title: Thinking about Data
 plugins:
   - jekyll-default-layout
+  - jekyll-titles-from-headings
