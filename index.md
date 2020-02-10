@@ -2,7 +2,7 @@
 
 ### Interests
 
--  Databases
+- Databases
   - SQL Server
   - Postgres
 - Languages  
