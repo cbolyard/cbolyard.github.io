@@ -4,11 +4,18 @@
 
 - Databases
   - SQL Server
-  - Postgres
+  - Postgresql
+  - Redshift
 - Languages  
   - C#
   - Python
-  - Go 
+  - Go
+  - Terraform
+- Tools
+  - VSCode
+  - git
+  - dbt
+  - graphviz, mermaid, plantUML
 - Software Architecture
 
 ### Presentations
