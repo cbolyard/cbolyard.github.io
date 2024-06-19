@@ -1,26 +1,25 @@
 ## Chris Bolyard
 
-### Interests
-
+- Software Architecture
+- Data Engineering
+- Product Management
 - Cloud
+  - Azure
   - AWS
 - Databases
-  - SQL Server
+  - Duckdb
+  - Snowflake
   - Postgresql
-  - Redshift
-- Languages  
-  - C#
+  - SQL Server
+- Languages
+  - SQL
   - Python
-  - Go
-  - Terraform
+  - C#
 - Tools
-  - VSCode
+  - vscode
   - git
+  - docker
   - dbt
+  - dagster
+  - proxmox
   - graphviz, mermaid, plantUML
-- Software Architecture
-
-### Presentations
-
-- August 18th 2016
-  - Presented In-Memory features of SQL 2016 at Kansas City SQL Server Users Group
